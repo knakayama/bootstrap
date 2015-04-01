@@ -1,0 +1,5 @@
+/cookbooks/
+.ssh/known_hosts*
+/.chef/syntax_check_cache/
+.vagrant
+
